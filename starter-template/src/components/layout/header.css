@@ -1,0 +1,10 @@
+.header
+{
+    background-color: rgb(0, 111, 148)
+}
+
+.header .title
+{
+    text-align: center;
+    color: #ffffff;
+}
