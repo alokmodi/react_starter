@@ -1,1 +1,3 @@
-** Nothing **
+npm install
+
+npm start
